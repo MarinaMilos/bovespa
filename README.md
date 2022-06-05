@@ -1,2 +1,2 @@
 # bovespa
-Análise fundamentalista de várias empresas do índice usando python e PHP
+Análise fundamentalista de várias empresas do índice usando Python e PHP
